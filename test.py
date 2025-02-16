@@ -6,3 +6,4 @@ print("Welcome to django");
 print("***All The best");
 
 print("have a nice day")
+print("rock and roll")
